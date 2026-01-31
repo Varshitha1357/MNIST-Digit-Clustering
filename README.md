@@ -10,10 +10,10 @@ This project visualizes how unsupervised machine learning algorithms can discove
 - **K-Means Clustering**: Groups similar digits into clusters
 - **Streamlit**: Interactive web interface for exploring different parameters
 
-![MNIST Clustering Result](docs\image1.png)
-![MNIST Clustering Result](docs\image2.png)
-![MNIST Clustering Result](docs\image3.png)
-![MNIST Clustering Result](docs\image4.png)
+![MNIST Clustering Result](docs/image1.png)
+![MNIST Clustering Result](docs/image2.png)
+![MNIST Clustering Result](docs/image3.png)
+![MNIST Clustering Result](docs/image4.png)
 
 ## Features
 
